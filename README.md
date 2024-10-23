@@ -1,6 +1,6 @@
 # GCSB_MLE
 
-[Google Cloud Skills Boost Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
+This repository will be used to track and document my progress through the [Google Cloud Skills Boost Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17). Each section listed below is associated with an issue and a GitHub project is used to track overall progress. Work for each section is completed on a branch which is merged and closed upon completion.
 
 ## Learning path outline
 
