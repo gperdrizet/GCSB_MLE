@@ -58,7 +58,7 @@ E-commerce data in BigQuery.
 
 ### 1.6. Lab: Predict Visitor Purchases with BigQuery ML
 
-See BigQuery lab notes.
+See [BigQuery lab notes](https://github.com/gperdrizet/GCSB_MLE/blob/section_01/01-AI_ML_on_google_cloud/bigquery_lab_notes.md).
 
 ### 1.7. Summary
 
@@ -66,4 +66,4 @@ See BigQuery lab notes.
 
 ### 1.9. Reading list
 
-See reading list PDF.
+See [reading list](https://github.com/gperdrizet/GCSB_MLE/blob/section_01/01-AI_ML_on_google_cloud/reading_list.pdf) PDF.
