@@ -1,0 +1,43 @@
+# Introduction to AI and Machine Learning on Google Cloud (8 hours)
+
+- **Module 1**: AI Foundations on Google Cloud
+- **Module 2**: AI Development on Google Cloud
+- **Module 3**: ML Workflow and Vertex AI
+- **Module 4**: Generative AI on Google Cloud
+
+General introduction to AI, business use cases. Definitions of generative vs predictive AI etc.
+
+## 1. AI Foundations on Google Cloud
+
+Case study - get excited about AI on GC. Brief history of data/machine learning at Google. Note on AI ethics at Google. Overview of ML framework on GC and the rest of the course.
+
+Bunch of overview/introduction videos:
+
+### 1.1. Google cloud infrastructure: AI tools → compute/storage → networking & security
+
+Compute and storage are decoupled:
+
+- Compute services: Compute Engine, GKE, App Engine, Cloud Run, Cloud Run Functions (functions as a service)
+- Our tensor processing units (TPUs) are awesome!
+- Storage options: Cloud Storage, Bigtable, Cloud SQL, Spanner, Firestore, BigQuery
+- Storage considerations: Structured vs unstructured? How hot is the data? Transactional vs analytical workload? Access method (SQL or not)?
+
+### 1.2. Data and AI products: built on top of compute and storage
+
+Data-to-AI workflow divided into stages with products at each stage:
+
+1. Ingestion and process: PubSub, DataFlow, DataProc, Cloud Data Fusion
+2. Storage: Cloud Storage, Bigtable, Cloud SQL, Spanner, Firestore, BigQuery
+3. Analytics: BigQuery, Other BI tools (business intelligence tools)
+4. AI/machine learning:
+
+- AI development via Vertex AI: Auto ML, Workbench, Colab Enterprise, Vertex AI Studio, Model Garden
+- AI solutions: Document AI, Contact Center AI, Vertex AI Search for Retail, Health Care Data Engine
+
+### 1.3. ML model categories
+
+General definitions:
+
+- AI vs machine learning
+- Supervised vs unsupervised
+- Generative AI
