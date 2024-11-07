@@ -41,3 +41,29 @@ General definitions:
 - AI vs machine learning
 - Supervised vs unsupervised
 - Generative AI
+
+### 1.4. BigQueryML
+
+Used for both analytics and build ML models via BigQuery ML. All via SQL queries:
+
+1. ETL data into big query
+2. Select & process features
+3. Create model
+4. Evaluate model performance
+5. Make predictions
+
+### 1.5. Lab introduction
+
+E-commerce data in BigQuery.
+
+### 1.6. Lab: Predict Visitor Purchases with BigQuery ML
+
+See BigQuery lab notes.
+
+### 1.7. Summary
+
+### 1.8. Quiz: 100%
+
+### 1.9. Reading list
+
+See reading list PDF.
