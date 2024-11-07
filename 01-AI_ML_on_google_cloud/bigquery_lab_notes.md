@@ -36,7 +36,7 @@ OPTIONS(model_type='logistic_reg') AS
 SELECT * from `bqml_lab.training_data`;
 ```
 
-Runs training asyncronously, can view progress via Job History and Query Results boxes.
+Runs training asynchronously, can view progress via Job History and Query Results boxes.
 
 ## Model information & training stats
 

@@ -62,7 +62,14 @@ See [BigQuery lab notes](https://github.com/gperdrizet/GCSB_MLE/blob/section_01/
 
 ### 1.7. Summary
 
-### 1.8. Quiz: 100%
+### 1.8. Quiz
+
+Score 87% (1 wrong of 8), incorrect answer:
+
+1. On Cloud Storage, which data storage class is best for storing data that needs to be accessed less than once a year?
+
+- ~~Coldline storage~~
+- Archive storage
 
 ### 1.9. Reading list
 
