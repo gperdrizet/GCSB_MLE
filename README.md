@@ -6,14 +6,14 @@ This repository will be used to track and document my progress through the [Goog
 
 ## Learning path outline
 
-### [01. Introduction to AI and Machine Learning on Google Cloud (8 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/1)
+### [Course 01. Introduction to AI and Machine Learning on Google Cloud (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/593)
 
 - **Module 1**: AI Foundations on Google Cloud
 - **Module 2**: AI Development on Google Cloud
 - **Module 3**: ML Workflow and Vertex AI
 - **Module 4**: Generative AI on Google Cloud
 
-### [02. Prepare Data for ML APIs on Google Cloud (6.5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/2)
+### [Course 02. Prepare Data for ML APIs on Google Cloud (6.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/631)
 
 - **Lab 1**: Vertex AI: Qwik Start
 - **Lab 2**: Dataprep: Qwik Start
@@ -26,11 +26,11 @@ This repository will be used to track and document my progress through the [Goog
 - **Lab 9**: Video Intelligence: Qwik Start
 - **Lab 10**: Prepare Data for ML APIs on Google Cloud: Challenge Lab
 
-### [03. Working with Notebooks in Vertex AI (0.75 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/3)
+### [Course 03. Working with Notebooks in Vertex AI (0.75 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/923)
 
 - **Mini-course**: 8 lessons
 
-### [04. Create ML Models with BigQuery ML (5.5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/4)
+### [Course 04. Create ML Models with BigQuery ML (5.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/626)
 
 - **Lab 1**: Getting Started with BigQuery ML
 - **Lab 2**: Predict Visitor Purchases with a Classification Model in BigQuery ML
@@ -38,14 +38,14 @@ This repository will be used to track and document my progress through the [Goog
 - **Lab 4**: Bracketology with Google Machine Learning
 - **Lab 5**: Create ML Models with BigQuery ML: Challenge Lab
 
-### [05. Engineer Data for Predictive Modeling with BigQuery ML (4.25 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/5)
+### [Course 05. Engineer Data for Predictive Modeling with BigQuery ML (4.25 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/627)
 
 - **Lab 1**: Creating a Data Transformation Pipeline with Cloud Dataprep
 - **Lab 2**: ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
 - **Lab 3**: Predict Visitor Purchases with a Classification Model in BigQuery ML
 - **Lab 4**: Engineer Data for Predictive Modeling with BigQuery ML: Challenge Lab
 
-### [06. Feature Engineering (24 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/6)
+### [Course 06. Feature Engineering (24 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/11)
 
 - **Module 1**: Introduction to Vertex AI Feature Store
 - **Module 2**: Raw Data to Features
@@ -54,14 +54,14 @@ This repository will be used to track and document my progress through the [Goog
 - **Module 5**: Feature Crosses: TensorFlow Playground
 - **Module 6**: Introduction to TensorFlow Transform
 
-### [07. TensorFlow on Google Cloud (15.5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/7)
+### [Course 07. Build, Train and Deploy ML Models with Keras on Google Cloud (15.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/12)
 
 - **Module 1**: Introduction to the TensorFlow Ecosystem
 - **Module 2**: Design and Build an Input Data Pipeline
 - **Module 3**: Building Neural Networks with the TensorFlow and Keras API
 - **Module 4**: Training at Scale with Vertex AI
 
-### [08. Production Machine Learning Systems (16 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/8)
+### [Course 08. Production Machine Learning Systems (16 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/17)
 
 - **Module 1**: Architecting Production ML System
 - **Module 2**: Designing Adaptable ML System Designing High-Performance ML Systems
@@ -69,34 +69,34 @@ This repository will be used to track and document my progress through the [Goog
 - **Module 4**: Hybrid ML Systems
 - **Module 5**: Troubleshooting ML Production Systems
 
-### [09. Machine Learning Operations (MLOps): Getting Started (8 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/9)
+### [Course 09. Machine Learning Operations (MLOps): Getting Started (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/158)
 
 - **Module 1**: Employing Machine Learning Operations
 - **Module 2**: Vertex AI and MLOps on Vertex AI
 
-### [10. Machine Learning Operations (MLOps) with Vertex AI: Manage Features (8 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/10)
+### [Course 10. Machine Learning Operations (MLOps) with Vertex AI: Manage Features (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/584)
 
 - **Module 1**: Introduction to Vertex AI Feature Store
 - **Module 2**: An In-Depth Look
 
-### [11. Introduction to Generative AI (0.75 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/11)
+### [Course 11. Introduction to Generative AI (0.75 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/536)
 
 - **Mini-course**: 1 lesson
 
-### [12. Introduction to Large Language Models (0.5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/12)
+### [Course 12. Introduction to Large Language Models (0.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/539)
 
 - **Mini-course**: 1 lesson
 
-### [13. Machine Learning Operations (MLOps) for Generative AI (0.5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/13)
+### [Course 13. Machine Learning Operations (MLOps) for Generative AI (0.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/927)
 
 - **Mini Course**: 5 lessons
 
-### [14. Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation (2.5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/14)
+### [Course 14. Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation (2.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/1080)
 
 - **Module 1**: Introduction to Model Evaluation
 - **Module 2**: Model Evaluation for Generative AI
 
-### [15. ML Pipelines on Google Cloud (2.25 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/15)
+### [Course 15. ML Pipelines on Google Cloud (2.25 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/191)
 
 - **Module 1**: Introduction to TFX Pipelines
 - **Module 2**: Pipeline Orchestration with TFX
@@ -106,7 +106,7 @@ This repository will be used to track and document my progress through the [Goog
 - **Module 6**: Continuous Training with Cloud Composer
 - **Module 7**: ML Pipelines with MLflow
 
-### [16. Build and Deploy Machine Learning Solutions on Vertex AI (8.25 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/16)
+### [Course 16. Build and Deploy Machine Learning Solutions on Vertex AI (8.25 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/684)
 
 - **Lab 1**: Vertex AI: Qwik Start
 - **Lab 2**: Identify Damaged Car Parts with Vertex AutoML Vision
@@ -114,23 +114,23 @@ This repository will be used to track and document my progress through the [Goog
 - **Lab 4**: Vertex Pipelines: Qwik Start
 - **Lab 5**: Build and Deploy Machine Learning Solutions with Vertex AI: Challenge Lab
 
-### [17. Build Generative AI Applications on Google Cloud (4 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/17)
+### [Course 17. Create Generative AI Applications on Google Cloud (4 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/1120)
 
 - **Module 1**: Generative AI Applications
 - **Module 2**: Prompts
 - **Module 3**: Retrieval Augmented Generation (RAG)
 
-### [18. Responsible AI for Developers: Fairness and Bias (4 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/18)
+### [Course 18. Responsible AI for Developers: Fairness and Bias (4 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/985)
 
 - **Module 1**: AI Interpretability and Transparency
 - **Module 2**: Modernizing Infrastructure in the Cloud
 
-### [19. Responsible AI for Developers: Interpretability and Transparency (3 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/19)
+### [Course 19. Responsible AI for Developers: Interpretability and Transparency (3 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/989)
 
 - **Module 1**: AI Interpretability and Transparency
 - **Module 2**: Modernizing Infrastructure in the Cloud
 
-### [20. Responsible AI for Developers: Privacy and Safety (5 hours)](https://github.com/gperdrizet/GCSB_MLE/issues/20)
+### [Course 20. Responsible AI for Developers: Privacy and Safety (5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/1036)
 
 - **Module 1**: AI Privacy
 - **Module 2**: AI Safety
