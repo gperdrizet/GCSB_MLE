@@ -1,6 +1,6 @@
 # GCSB_MLE
 
-This repository will be used to track and document my progress through the [Google Cloud Skills Boost Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17). Each section listed below is associated with an issue and a GitHub project is used to track overall progress. Work for each section is completed on a branch which is merged and closed upon completion.
+This repository will be used to track and document my progress through the [Google Cloud Skills Boost Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17). Each course in the learning path listed below is associated with an issue and a GitHub project is used to track overall progress. Work for each section is completed on a branch which is merged and closed upon completion.
 
 **Note:** The section numbering below follows that given in the [study guide](https://github.com/gperdrizet/GCSB_MLE/blob/main/course_introduction_materials/machine_learning_engineer_study_guide.pdf) where the first two introductory sections listed on the [learning path page](https://www.cloudskillsboost.google/paths/17) are not included in the numbering.
 
