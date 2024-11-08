@@ -27,4 +27,5 @@
 11. Reading list
 
 ## Module 3: ML Workflow and Vertex AI
+
 ## Module 4: Generative AI on Google Cloud
