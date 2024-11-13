@@ -8,9 +8,9 @@ This repository will be used to track and document my progress through the [Goog
 
 ### [Course 01. Introduction to AI and Machine Learning on Google Cloud (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/593)
 
-- **Module 1**: AI Foundations on Google Cloud
-- **Module 2**: AI Development on Google Cloud
-- **Module 3**: ML Workflow and Vertex AI
+- ~~**Module 1**: AI Foundations on Google Cloud~~
+- ~~**Module 2**: AI Development on Google Cloud~~
+- ~~**Module 3**: ML Workflow and Vertex AI~~
 - **Module 4**: Generative AI on Google Cloud
 
 ### [Course 02. Prepare Data for ML APIs on Google Cloud (6.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/631)
@@ -68,7 +68,7 @@ This repository will be used to track and document my progress through the [Goog
 - **Module 3**: Designing High-Performance ML Systems
 - **Module 4**: Hybrid ML Systems
 - **Module 5**: Troubleshooting ML Production Systems
-
+- 
 ### [Course 09. Machine Learning Operations (MLOps): Getting Started (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/158)
 
 - **Module 1**: Employing Machine Learning Operations

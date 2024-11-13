@@ -27,4 +27,18 @@
 11. Reading list
 
 ## Module 3: ML Workflow and Vertex AI
+
+1. Introduction
+2. ML workflow
+3. Data preparation
+4. Model development
+5. Model serving
+6. MLOps and workflow automation
+7. Lab introduction
+8. How a machine learns: gradient decent
+9. Lab: VertexAI: Predicting Loan Risk with AutoML
+10. Summary
+11. Quiz
+12. Reading list
+
 ## Module 4: Generative AI on Google Cloud
