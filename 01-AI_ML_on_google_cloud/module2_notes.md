@@ -82,13 +82,13 @@ UI based, with pre-trained models. But, APIs called from code using JSON request
 
 ## 2.8. Lab: Entity and Sentiment Analysis with the Natural Language API
 
-See lab [natural language API lab notes](https://github.com/gperdrizet/GCSB_MLE/blob/main/01-AI_ML_on_google_cloud/module2_lab_notes.md).
+See [natural language API lab notes](https://github.com/gperdrizet/GCSB_MLE/blob/main/01-AI_ML_on_google_cloud/module2_lab_notes.md).
 
 ## 2.9. Summary
 
 ## 2.10. Quiz
 
-Score 100% (6 questions)
+Score 100% (6 multiple choice questions)
 
 ## 2.11. Reading list
 
