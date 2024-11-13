@@ -102,16 +102,16 @@ AutoML - loan risk prediction (classification task):
 
 Basic overview of neural networks. Input, hidden and output layers. Weights, activation functions, loss/cost functions. Back propagation, gradient decent, learning rate. Iteration & epochs.
 
-## 3.8. Lab: VertexAI: Predicting Loan Risk with AutoML
+## 3.9. Lab: VertexAI: Predicting Loan Risk with AutoML
 
 See predicting loan risk lab notes.
 
-## 3.9. Summary
+## 3.10. Summary
 
-## 3.10. Quiz
+## 3.11. Quiz
 
 Score 100% (7 multiple choice questions)
 
-## 3.11. Reading list
+## 3.12. Reading list
 
 See module 3 reading list.

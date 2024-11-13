@@ -10,7 +10,7 @@ This repository will be used to track and document my progress through the [Goog
 
 - ~~**Module 1**: AI Foundations on Google Cloud~~
 - ~~**Module 2**: AI Development on Google Cloud~~
-- **Module 3**: ML Workflow and Vertex AI
+- ~~**Module 3**: ML Workflow and Vertex AI~~
 - **Module 4**: Generative AI on Google Cloud
 
 ### [02. Prepare Data for ML APIs on Google Cloud (6.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/631)
