@@ -68,7 +68,7 @@ This repository will be used to track and document my progress through the [Goog
 - **Module 3**: Designing High-Performance ML Systems
 - **Module 4**: Hybrid ML Systems
 - **Module 5**: Troubleshooting ML Production Systems
-- 
+
 ### [Course 09. Machine Learning Operations (MLOps): Getting Started (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/158)
 
 - **Module 1**: Employing Machine Learning Operations
