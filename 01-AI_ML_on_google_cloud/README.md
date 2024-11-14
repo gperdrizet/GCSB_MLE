@@ -36,9 +36,28 @@
 6. MLOps and workflow automation
 7. Lab introduction
 8. How a machine learns: gradient decent
-9. Lab: VertexAI: Predicting Loan Risk with AutoML
+9. Lab: Vertex AI: Predicting Loan Risk with AutoML
 10. Summary
 11. Quiz
 12. Reading list
 
 ## Module 4: Generative AI on Google Cloud
+
+1. Introduction
+2. Generative AI and workflow
+3. Gemini multimodal
+4. Prompt design
+5. Model tuning
+6. Model garden
+7. AI solutions
+8. Lab introduction
+9. Lab: Get Started with Vertex AI Studio
+10. Summary
+11. Quiz
+12. Reading
+
+## Course summary
+
+## Reading
+
+See [course reading list](https://github.com/gperdrizet/GCSB_MLE/main/course_01/01-AI_ML_on_google_cloud/course_reading_list.pdf)

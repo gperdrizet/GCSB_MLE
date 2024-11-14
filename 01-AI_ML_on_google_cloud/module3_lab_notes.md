@@ -8,7 +8,7 @@
 - Deploy the model to an endpoint.
 - Get predictions.
 
-VertexAI has two options for building ML models: codeless via AutoML or code based with Custom Training via Vertex Workbench. This lab explores AutoML.
+Vertex AI has two options for building ML models: codeless via AutoML or code based with Custom Training via Vertex Workbench. This lab explores AutoML.
 
 ## 1. Prepare the training data
 
@@ -74,10 +74,10 @@ For Machine type: e2-standard-8, 8 vCPUs, 32 GiB memory.
 Explainability Options: Feature attribution.
 Done > Continue
 
-Model monitoring >  Continue.
+Model monitoring > Continue.
 
-Model objectives > Training data source >  Vertex AI dataset.
-Target column >  Default > Deploy
+Model objectives > Training data source > Vertex AI dataset.
+Target column > Default > Deploy
 
 ## 5. SML Bearer Token
 
@@ -115,7 +115,7 @@ $ cat INPUT_JSON
 {"endpointId": "1411183591831896064", "instance": "[{age: 40.77430558, ClientID: '997', income: 44964.0106, loan: 3944.219318}]"}
 ```
 
-smlproxy is an executable.
+Smlproxy is an executable.
 
 Set endpoint:
 
@@ -143,4 +143,4 @@ SML Tabular HTTP Response:
 
 Neat! Same result can be accomplished via GUI once the model is trained via the 'test your model' box.
 
-Also, note that model we 'trained' in part 1 and 2 of this lab has been training for ~40 minutes at this point with no result. There are only like 2000 observations in the dataset - what the heck guys, does it take that long when you do something like this for real? How long is training such a small simple model expected to take? Same thing happened with the summary statistics on the dataset - it was taking longer than 5 minutes to compute - a quick pandas .describe() would have been done in milliseconds. Maybe the lab instance is not actualy live/has very little compute? I dunno, this one felt lame.
+Also, note that model we 'trained' in part 1 and 2 of this lab has been training for ~40 minutes at this point with no result. There are only like 2000 observations in the dataset - what the heck guys, does it take that long when you do something like this for real? How long is training such a small simple model expected to take? Same thing happened with the summary statistics on the dataset - it was taking longer than 5 minutes to compute - a quick pandas .describe() would have been done in milliseconds. Maybe the lab instance is not actually live/has very little compute? I don't know, this one felt lame.
