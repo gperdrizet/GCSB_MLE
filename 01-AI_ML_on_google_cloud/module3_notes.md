@@ -104,7 +104,7 @@ Basic overview of neural networks. Input, hidden and output layers. Weights, act
 
 ## 3.9. Lab: VertexAI: Predicting Loan Risk with AutoML
 
-See predicting loan risk lab notes.
+See [predicting loan risk](https://github.com/gperdrizet/GCSB_MLE/blob/main/01-AI_ML_on_google_cloud/module3_lab_notes.md) lab notes.
 
 ## 3.10. Summary
 
@@ -114,4 +114,4 @@ Score 100% (7 multiple choice questions)
 
 ## 3.12. Reading list
 
-See module 3 reading list.
+See [module 3 reading list](https://github.com/gperdrizet/GCSB_MLE/main/course_01/01-AI_ML_on_google_cloud/module3_reading_list.pdf).
