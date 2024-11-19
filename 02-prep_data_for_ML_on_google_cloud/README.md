@@ -6,7 +6,7 @@
 - ~~**Lab 4**: Dataflow: Qwik Start - Python~~
 - ~~**Lab 5**: Dataproc: Qwik Start - Console~~
 - ~~**Lab 6**: Dataproc: Qwik Start - Command Line~~
-- **Lab 7**: Cloud Natural Language API: Qwik Start
-- **Lab 8**: Speech-to-Text API: Qwik Start
-- **Lab 9**: Video Intelligence: Qwik Start
-- **Lab 10**: Prepare Data for ML APIs on Google Cloud: Challenge Lab
+- ~~**Lab 7**: Cloud Natural Language API: Qwik Start~~
+- ~~**Lab 8**: Speech-to-Text API: Qwik Start~~
+- ~~**Lab 9**: Video Intelligence: Qwik Start~~
+- ~~**Lab 10**: Prepare Data for ML APIs on Google Cloud: Challenge Lab~~
