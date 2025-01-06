@@ -31,9 +31,9 @@ This repository will be used to track and document my progress through the [Goog
 **Mini-course**: 8 lessons
 
 - **Lesson 1**: Working with Notebooks in Vertex AI
-- **Lesson 1**: Vertex AI Notebook Solutions
-- **Lesson 1**: Vertex AI Colab Enterprise notebooks
-- **Lesson 1**: Vertex AI Workbench instance notebooks
+- **Lesson 2**: Vertex AI Notebook Solutions
+- **Lesson 3**: Vertex AI Colab Enterprise notebooks
+- **Lesson 4**: Vertex AI Workbench instance notebooks
 - **Summary**
 - **Quiz**: Working with Notebooks in Vertex AI
 - **Lab 1**: Exploratory Data Analysis using Bigquery and Colab Enterprise (2 hrs)
