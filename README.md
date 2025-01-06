@@ -28,7 +28,16 @@ This repository will be used to track and document my progress through the [Goog
 
 ### [Course 03. Working with Notebooks in Vertex AI (0.75 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/923)
 
-- **Mini-course**: 8 lessons
+**Mini-course**: 8 lessons
+
+- ~~**Lesson 1**: Working with Notebooks in Vertex AI~~
+- ~~**Lesson 2**: Vertex AI Notebook Solutions~~
+- ~~**Lesson 3**: Vertex AI Colab Enterprise notebooks~~
+- ~~**Lesson 4**: Vertex AI Workbench instance notebooks~~
+- ~~**Summary**~~
+- ~~**Quiz**: Working with Notebooks in Vertex AI~~
+- ~~**Lab 1**: Exploratory Data Analysis using Bigquery and Colab Enterprise (2 hrs)~~
+- ~~**Lab 2**: Exploratory Data Analysis using Bigquery and Workbench Instances (2 hrs)~~
 
 ### [Course 04. Create ML Models with BigQuery ML (5.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/626)
 
