@@ -1,6 +1,6 @@
 # GCSB_MLE
 
-This repository will be used to track and document my progress through the [Google Cloud Skills Boost Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17). Each section listed below is associated with an issue and a GitHub project is used to track overall progress. Work for each section is completed on a branch which is merged and closed upon completion.
+This repository will be used to track and document my progress through the [Google Cloud Skills Boost Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17). Each course in the learning path listed below is associated with an issue and a GitHub project is used to track overall progress. Work for each section is completed on a branch which is merged and closed upon completion.
 
 **Note:** The section numbering below follows that given in the [study guide](https://github.com/gperdrizet/GCSB_MLE/blob/main/course_introduction_materials/machine_learning_engineer_study_guide.pdf) where the first two introductory sections listed on the [learning path page](https://www.cloudskillsboost.google/paths/17) are not included in the numbering.
 
@@ -8,27 +8,36 @@ This repository will be used to track and document my progress through the [Goog
 
 ### [Course 01. Introduction to AI and Machine Learning on Google Cloud (8 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/593)
 
-- **Module 1**: AI Foundations on Google Cloud
-- **Module 2**: AI Development on Google Cloud
-- **Module 3**: ML Workflow and Vertex AI
-- **Module 4**: Generative AI on Google Cloud
+- ~~**Module 1**: AI Foundations on Google Cloud~~
+- ~~**Module 2**: AI Development on Google Cloud~~
+- ~~**Module 3**: ML Workflow and Vertex AI~~
+- ~~**Module 4**: Generative AI on Google Cloud~~
 
 ### [Course 02. Prepare Data for ML APIs on Google Cloud (6.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/631)
 
-- **Lab 1**: Vertex AI: Qwik Start
-- **Lab 2**: Dataprep: Qwik Start
-- **Lab 3**: Dataflow: Qwik Start - Templates
-- **Lab 4**: Dataflow: Qwik Start - Python
-- **Lab 5**: Dataproc: Qwik Start - Console
-- **Lab 6**: Dataproc: Qwik Start - Command Line
-- **Lab 7**: Cloud Natural Language API: Qwik Start
-- **Lab 8**: Speech-to-Text API: Qwik Start
-- **Lab 9**: Video Intelligence: Qwik Start
-- **Lab 10**: Prepare Data for ML APIs on Google Cloud: Challenge Lab
+- ~~**Lab 1**: Vertex AI: Qwik Start~~
+- ~~**Lab 2**: Dataprep: Qwik Start~~
+- ~~**Lab 3**: Dataflow: Qwik Start - Templates~~
+- ~~**Lab 4**: Dataflow: Qwik Start - Python~~
+- ~~**Lab 5**: Dataproc: Qwik Start - Console~~
+- ~~**Lab 6**: Dataproc: Qwik Start - Command Line~~
+- ~~**Lab 7**: Cloud Natural Language API: Qwik Start~~
+- ~~**Lab 8**: Speech-to-Text API: Qwik Start~~
+- ~~**Lab 9**: Video Intelligence: Qwik Start~~
+- ~~**Lab 10**: Prepare Data for ML APIs on Google Cloud: Challenge Lab~~
 
 ### [Course 03. Working with Notebooks in Vertex AI (0.75 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/923)
 
-- **Mini-course**: 8 lessons
+**Mini-course**: 8 lessons
+
+- ~~**Lesson 1**: Working with Notebooks in Vertex AI~~
+- ~~**Lesson 2**: Vertex AI Notebook Solutions~~
+- ~~**Lesson 3**: Vertex AI Colab Enterprise notebooks~~
+- ~~**Lesson 4**: Vertex AI Workbench instance notebooks~~
+- ~~**Summary**~~
+- ~~**Quiz**: Working with Notebooks in Vertex AI~~
+- ~~**Lab 1**: Exploratory Data Analysis using Bigquery and Colab Enterprise (2 hrs)~~
+- ~~**Lab 2**: Exploratory Data Analysis using Bigquery and Workbench Instances (2 hrs)~~
 
 ### [Course 04. Create ML Models with BigQuery ML (5.5 hours)](https://www.cloudskillsboost.google/paths/17/course_templates/626)
 
