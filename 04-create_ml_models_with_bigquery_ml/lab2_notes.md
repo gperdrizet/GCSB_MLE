@@ -13,7 +13,7 @@ BigQuery: build and execute ML models with SQL queries.
 
 ## Setup
 
-- Google Cloud Console -> Navigation menu -> BigQuery.
+- Google Cloud Console -> Navigation menu -> BigQuery
 - Explorer -> ADD
 - Additional sources -> Star a project by name
 - Enter `data-to-insights` and click Star
@@ -23,7 +23,7 @@ Field definitions: <https://support.google.com/analytics/answer/3437719?hl=en>
 
 ## 1. Explore ecommerce data
 
-### 1.1. What percentage of site visitors made a purchas?
+### 1.1. What percentage of site visitors made a purchase?
 
 ```SQL
 #standardSQL
