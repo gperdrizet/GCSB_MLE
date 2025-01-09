@@ -357,7 +357,7 @@ LEFT JOIN `data-to-insights.ncaa.feature_engineering` AS opp
 ON o.opponent_school_ncaa = opp.team AND o.season = opp.season
 ```
 
-## 3. Preview the new features
+## 13. Preview the new features
 
 Click 'Go to table` to check out the new features.
 
