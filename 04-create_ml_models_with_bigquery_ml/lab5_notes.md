@@ -2,25 +2,25 @@
 
 Complete a set of tasks with BigQuery. Specific tasks are dynamically selected for each run of the lab.
 
-# 1. Create a new dataset
+## 1. Create a new dataset
 
-## 1.1. Task
+### 1.1. Task
 
 One of the projects you are working on needs to provide analysis based on real-world data. Your role in this project is to develop and evaluate machine learning models.
 
 So, in this task, you have to create a dataset with the dataset ID 'bq_dataset' in which you can store your machine learning models.
 
-## 1.2. Solution
+### 1.2. Solution
 
 - Cloud Console -> Navigation menu -> BigQuery
 - Explorer -> project ID -> View actions (three dot menu) -> Create dataset
 - Set Dataset ID to 'bq_dataset'
 
-# 2. Evaluate classification model performace
+## 2. Evaluate classification model performance
 
-## 2.1. Task
+### 2.1. Task
 
-For this task you have precreated dataset ecommerce which contains a pretrained BigQuery ML model customer_classification_model.
+For this task you have pre-created dataset ecommerce which contains a pre-trained BigQuery ML model customer_classification_model.
 
 The below query is used to create the customer_classification_model:
 
@@ -63,7 +63,7 @@ In BigQuery ML, roc_auc is simply a queryable field when evaluating your trained
 
 After evaluating your model observe the predictive power of this model.
 
-## 2.2. Solution
+### 2.2. Solution
 
 Here is my solution that was not accepted (note: it does output the model ROC_AUC):
 
@@ -116,13 +116,13 @@ USING (fullVisitorId)
 ));
 ```
 
-What the heck Google - there was not mention of binning the ROC_AUC results and giving a qualitative output. The task just asked for the ROC_AUC? Also, how was I supposed to know that I should evaluate on 2 months of data, etc. 
+What the heck Google - there was not mention of binning the ROC_AUC results and giving a qualitative output. The task just asked for the ROC_AUC? Also, how was I supposed to know that I should evaluate on 2 months of data, etc.
 
 ## 3. Improve model performance with feature engineering and re-evaluate
 
 ### 3.1. Task
 
-For this task you have precreated dataset ecommerce which contains a pretrained BigQuery ML model customer_classification_model, but there are many more features in the dataset that may help the model better understand the relationship between a visitor's first session and the likelihood that they will purchase on a subsequent visit.
+For this task you have pre-created dataset ecommerce which contains a pre-trained BigQuery ML model customer_classification_model, but there are many more features in the dataset that may help the model better understand the relationship between a visitor's first session and the likelihood that they will purchase on a subsequent visit.
 
 Now add some new features and create a second machine learning model called improved_customer_classification_model.
 
@@ -454,7 +454,7 @@ country
 
 ### 4.1. Task
 
-For this task you have precreated dataset ecommerce which contains a pretrained BigQuery ML model finalized_classification_model.
+For this task you have pre-created dataset ecommerce which contains a pre-trained BigQuery ML model finalized_classification_model.
 
 1. Write a query to predict which new visitors will come back and make a purchase.
 2. The query will uses the finalized_classification_model model to predict the probability that a first-time visitor to the Google Merchandise Store will make a purchase in a later visit
