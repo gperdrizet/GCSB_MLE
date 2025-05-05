@@ -66,7 +66,7 @@ LIMIT 5;
 ### 1.3. How many visitors bought on subsequent visits to the website?
 
 ```SQL
-# visitors who bought on a return visit (could have bought on first as well
+# visitors who bought on a return visit (could have bought on first as well)
 WITH all_visitor_stats AS (
 SELECT
   fullvisitorid, # 741,721 unique visitors
