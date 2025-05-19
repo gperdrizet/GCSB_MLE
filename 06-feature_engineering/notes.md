@@ -246,6 +246,21 @@ More examples of building taxifare prediction model with Keras functional API, t
 
 See: Module 3.12 lab: performing basic feature engineering in Keras
 
+### 3.13. Lab intro: performing advanced feature engineering in Keras
+
+1. Build a model with geospatial and temporal features
+2. Use Keras lambda layer for feature engineering
+
+### 3.14. Lab: performing advanced feature engineering in Keras
+
+See: Module 3.14 lab: performing basic feature engineering in Keras
+
+### 3.15. Quiz
+
+### 3.16. Resources
+
+Module 3: Feature engineering
+
 ## 4. Preprocessing and feature creation
 
 ## 5. Feature crosses - TensorFlow Playground
