@@ -194,14 +194,14 @@ Walkthrough of taxirides regression.
 
 ### 3.5. Lab: performing basic feature engineering in BigQuery ML
 
-See: Module 3 lab: performing basic feature engineering in BigQuery ML
+See: Module 3.5 lab: performing basic feature engineering in BigQuery ML
 
 ### 3.6. Advanced feature engineering: feature crosses
 
 Feature crosses tend to cause memorization - this can work when you have a lot of data.
 
 Neural nets can accomplish the same thing by having many layers.
-
+kk
 Feature crosses give very sparse data. If Feature crosses are done with bucketized or categorical features each observation will have a one in a single cell and zeros everywhere else.
 
 #### 3.6.1. Advanced feature engineering functions in BigQuery ML
@@ -233,6 +233,18 @@ More examples of building taxifare prediction model with Keras functional API, t
 3. Compute distance using tf.sqrt
 4. Min/max scaling... by hand with hard coded max and range?
 5. New anonymous functions as layers using Keras Lambda layers
+
+### 3.11. Lab intro: basic feature engineering in Keras
+
+**Objectives**:
+
+1. Build a housing price model with Keras sequential API
+2. Apply feature engineering
+3. Evaluate model performance
+
+### 3.12. Lab: performing basic feature engineering in Keras
+
+See: Module 3.12 lab: performing basic feature engineering in Keras
 
 ## 4. Preprocessing and feature creation
 
