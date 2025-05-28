@@ -1,5 +1,7 @@
 # Module 3 lab: performing advanced feature engineering in Keras
 
+[Notebook](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module3.14_lab.ipynb)
+
 **Objectives**:
 
 1. Build a model with geospatial and temporal features

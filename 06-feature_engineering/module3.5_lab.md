@@ -1,5 +1,7 @@
 # Module 3 lab: performing basic feature engineering in BigQuery ML
 
+[Notebook](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module3.5_lab.ipynb)
+
 **Objectives**:
 
 1. Create a model in BigQuery ML

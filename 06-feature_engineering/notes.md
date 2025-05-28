@@ -79,7 +79,7 @@ Six multiple choice questions.
 
 ### 1.8. Resources
 
-Module 1: Introduction to Vertex AI Feature Store
+[Module 1: Introduction to Vertex AI Feature Store](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module1_resources.pdf)
 
 ## 2. Raw data to features
 
@@ -142,7 +142,7 @@ Five multiple choice questions (badly worded - not even up to AI slop level!)
 
 ### 2.11. Resources
 
-Module 2: Raw Data to Features
+[Module 2: Raw Data to Features](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module2_resources.pdf)
 
 
 ## 3. Feature engineering
@@ -199,7 +199,7 @@ Walkthrough of taxirides regression.
 
 ### 3.5. Lab: performing basic feature engineering in BigQuery ML
 
-See: Module 3.5 lab: performing basic feature engineering in BigQuery ML
+See: [Module 3.5 lab: performing basic feature engineering in BigQuery ML](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module3.5_lab.md)
 
 
 ### 3.6. Advanced feature engineering: feature crosses
@@ -257,7 +257,7 @@ More examples of building taxifare prediction model with Keras functional API, t
 
 ### 3.12. Lab: performing basic feature engineering in Keras
 
-See: Module 3.12 lab: performing basic feature engineering in Keras
+See: [Module 3.12 lab: performing basic feature engineering in Keras](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module3.12_lab.md)
 
 
 ### 3.13. Lab intro: performing advanced feature engineering in Keras
@@ -268,14 +268,14 @@ See: Module 3.12 lab: performing basic feature engineering in Keras
 
 ### 3.14. Lab: performing advanced feature engineering in Keras
 
-See: Module 3.14 lab: performing basic feature engineering in Keras
+See: [Module 3.14 lab: performing basic feature engineering in Keras](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module3.14_lab.md)
 
 
 ### 3.15. Quiz
 
 ### 3.16. Resources
 
-Module 3: Feature engineering
+[Module 3: Feature engineering](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module3_resources.pdf)
 
 
 ## 4. Preprocessing and feature creation
@@ -315,8 +315,7 @@ Seven multiple choice questions - several terms/functions that were not mentione
 
 ### 4.4. Resources
 
-Module 4: Preprocessing and feature creation
-
+[Module 4: Preprocessing and feature creation](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module4_resources.pdf)
 
 ## 5. Feature crosses - TensorFlow Playground
 
@@ -351,7 +350,7 @@ Six multiple choice questions, mostly about color scheme used in Tensorflow Play
 
 ### 5.7. Resources
 
-Module 5: Feature Crosses and TensorFlow Playground
+[Module 5: Feature Crosses and TensorFlow Playground](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module5_resources.pdf)
 
 
 ## 6. Introduction to TensorFlow Transform
@@ -403,11 +402,11 @@ Four multiple very general multiple choice questions.
 
 ### 6.7. Resources
 
-Module 6: TensorFlow Transform
+[Module 6: TensorFlow Transform](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/module6_resources.pdf)
 
 ## 7. Summary
 
-1. Course summary: feature engineering
-2. Quiz questions
-3. Readings & videos
-4. Slides
+1. [Course summary: feature engineering](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/summary.pdf)
+2. [Quiz questions](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/quiz_questions.pdf)
+3. [Readings & videos](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/readings_videos.pdf)
+4. [Slides](https://github.com/gperdrizet/GCSB_MLE/blob/main/06-feature_engineering/slides.pdf)
