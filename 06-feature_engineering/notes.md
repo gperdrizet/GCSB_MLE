@@ -155,6 +155,7 @@ Module 2: Raw Data to Features
 2. Feature engineering with BigQuery ML
 3. Feature engineering with Keras
 
+
 ### 3.2. Machine learning vs statistics
 
 1. Statistics - limited fixed data
@@ -162,6 +163,7 @@ Module 2: Raw Data to Features
 
 Statistics - impute outliers, ML build a separate, fine grained model for them.
 Statistics - values matter, ML value scale doesn't matter and might be a problems - e.g. latitude, latitude might be related to house price, but the specific value of latitude probably doesn't have a linear relationship with price. Binning, clipping etc, missing value flags, etc.
+
 
 ### 3.3. Basic feature engineering
 
@@ -172,6 +174,7 @@ Statistics - values matter, ML value scale doesn't matter and might be a problem
 1. Binning
 2. Categorical feature encoding
 3. Some models numerical/categorical only, some handle mixed types
+
 
 ##### 3.3.1.2. Feature construction
 
@@ -184,6 +187,7 @@ BigQuery has lots of SQL style stuff for parsing and extracting features and man
 
 Walkthrough of taxirides regression.
 
+
 ### 3.4. Lab intro: performing basic feature engineering in BigQuery ML
 
 **Objectives**:
@@ -192,9 +196,11 @@ Walkthrough of taxirides regression.
 2. Apply feature engineering
 3. Evaluate model performance
 
+
 ### 3.5. Lab: performing basic feature engineering in BigQuery ML
 
 See: Module 3.5 lab: performing basic feature engineering in BigQuery ML
+
 
 ### 3.6. Advanced feature engineering: feature crosses
 
@@ -204,11 +210,13 @@ Neural nets can accomplish the same thing by having many layers.
 kk
 Feature crosses give very sparse data. If Feature crosses are done with bucketized or categorical features each observation will have a one in a single cell and zeros everywhere else.
 
+
 #### 3.6.1. Advanced feature engineering functions in BigQuery ML
 
 1. ML.FEATURE_CROSS: generates all possible crosses
 2. TRANSFORM: specify preprocessing during model creation
 3. ML.BUCKETIZE: quantizes a feature
+
 
 ### 3.7. Bucketize and Transform Functions
 
@@ -216,13 +224,16 @@ Creates bins - quantizes a continuous numerical feature into string bucket names
 
 TRANSFORM clause applies feature preprocessing during model training and prediction - great for deployment because if you change the preprocessing, you just need to update the deployed model you don't need to change any external preprocessing logic in the deployment.
 
+
 ### 3.8. Predict housing prices
 
 Walk though of housing prices with TFData datasets and Keras sequential API.
 
+
 ### 3.9. Estimate taxi fare
 
 Walks through taxirides with Keras functional API for more complex models.
+
 
 ### 3.10. Temporal and geolocation features
 
@@ -234,6 +245,7 @@ More examples of building taxifare prediction model with Keras functional API, t
 4. Min/max scaling... by hand with hard coded max and range?
 5. New anonymous functions as layers using Keras Lambda layers
 
+
 ### 3.11. Lab intro: basic feature engineering in Keras
 
 **Objectives**:
@@ -242,18 +254,22 @@ More examples of building taxifare prediction model with Keras functional API, t
 2. Apply feature engineering
 3. Evaluate model performance
 
+
 ### 3.12. Lab: performing basic feature engineering in Keras
 
 See: Module 3.12 lab: performing basic feature engineering in Keras
+
 
 ### 3.13. Lab intro: performing advanced feature engineering in Keras
 
 1. Build a model with geospatial and temporal features
 2. Use Keras lambda layer for feature engineering
 
+
 ### 3.14. Lab: performing advanced feature engineering in Keras
 
 See: Module 3.14 lab: performing basic feature engineering in Keras
+
 
 ### 3.15. Quiz
 
@@ -261,10 +277,137 @@ See: Module 3.14 lab: performing basic feature engineering in Keras
 
 Module 3: Feature engineering
 
+
 ## 4. Preprocessing and feature creation
+
+### 4.1. Introduction
+
+**Topics**:
+
+1. Dataflow + Apache Beam
+
+
+### 4.2. Apache Beam & Dataflow
+
+Cloud Dataflow serverless, fully managed platform - runs data pipelines in Python or Java.
+
+Apache beam API used to interact with Dataflow.
+
+Scales batch or stream data processing across Google cluster.
+
+Beam has connectors for other GCP services for data ingest.
+
+
+### 4.3. Dataflow terms and concepts
+
+Beam pipeline components:
+
+1. Source (connector)
+2. Transforms (PCollection)
+3. Output (sync)
+4. Runner (platform specific: dataflow, spark, others)
+
+
+### 4.4. Quiz
+
+Seven multiple choice questions - several terms/functions that were not mentioned in the module materials.
+
+
+### 4.4. Resources
+
+Module 4: Preprocessing and feature creation
+
 
 ## 5. Feature crosses - TensorFlow Playground
 
+### 5.1. Introduction
+
+**Topics**:
+
+1. Feature crosses
+2. Classifiers using feature crosses
+
+### 5.2. What is a feature cross?
+
+Example using a product feature to make a non-linear problem solvable with a linear model
+
+
+### 5.3. Discretization
+
+Goes one step farther and looks at discretizing feature space first and then making crosses.
+
+
+### 5.4. Lab intro: TensorFlow Playground: use feature crosses to create a good classifier
+
+Huh? 30 second video 'lab' is demonstration links in the video that we can't click on.
+
+
+### 5.5. Lab intro: TensorFlow Playground: too much of a good thing
+
+### 5.6. Quiz
+
+Six multiple choice questions, mostly about color scheme used in Tensorflow Playground. Since the links to the labs were not avalible, mostly had to guess.
+
+
+### 5.7. Resources
+
+Module 5: Feature Crosses and TensorFlow Playground
+
+
 ## 6. Introduction to TensorFlow Transform
 
+### 6.1. Introduction
+
+**Topics**:
+
+1. TF transform
+1. Feature preprocessing
+2. Feature creation
+
+
+### 6.2. TensorFlow Transform
+
+Methods for feature engineering:
+
+1. Use TensorFlow itself
+2. Write a custom TensorFlow operation
+3. Do it in Dataflow/Beam
+4. TF.transform - limited to TF methods, but lets you write your own methods
+
+Works like a hybrid between Beam and TensorFlow. Transform uses Dataflow during training, but TensorFlow during prediction.
+
+
+### 6.3. Analyze phase
+
+1. Set schema for raw data
+2. Create raw data template
+3. Then run analyze-and-transform PTransform
+
+
+### 6.4. Transform phase
+
+This is just a guy reading code with no lab or anything.
+
+If we set-up everything right, all of the stuff Beam did in the analyze phase, the tensorflow graph will do during transform. Think of scaling - we need to look at the whole dataset during analysis to get the min and max, then we need to know the min and max to transform.
+
+
+### 6.5. Supporting serving
+
+If the above is all set, then serving the model is easy - it has access to all of the metadata and transforms from the first two phases via the graph.
+
+
+### 6.6. Quiz
+
+Four multiple very general multiple choice questions.
+
+
+### 6.7. Resources
+
+Module 6: TensorFlow Transform
+
 ## 7. Summary
+
+1. Course summary: feature engineering
+2. Quiz questions
+3. Readings & videos
+4. Slides
